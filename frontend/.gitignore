@@ -1,0 +1,6 @@
+node_modules/
+package-log.json
+postcss.config.json
+README.md
+tailwind.config.json
+tailwind.css
